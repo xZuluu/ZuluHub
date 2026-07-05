@@ -1,0 +1,17 @@
+# dependencies / build
+node_modules/
+dist/
+release/
+build/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# local config & data (never committed)
+config.json
+.env
+data/
+*.db
+*.log

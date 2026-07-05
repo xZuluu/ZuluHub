@@ -1,0 +1,16 @@
+{
+  "name": "zuluhub",
+  "version": "1.0.0",
+  "description": "Desktop toolkit: email generation, list cleaning, and criteria-based search.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": "Zulu",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}
